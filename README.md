@@ -34,5 +34,3 @@ Publish your Power BI report to the Power BI service or export it as a PBIX file
 Step 9: Monitor and Iterate
 Regularly monitor your Power BI report to ensure it stays up to date and provides valuable insights. If needed, make iterations to include new data sources, visualizations, or features.
 
-
-![projet](https://github.com/smartrbo/Amazon_product_sale_analysis/assets/104967307/2484e32b-e90f-47c8-99f7-bb4ff456d328)
